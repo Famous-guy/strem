@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-app",
+  "version": "0.0.1",
+  "description": "A minimal Node.js web application.",
+  "main": "index.js",
+  "author": "Alphasec",
+  "license": "MIT",
+  "dependencies": {   
+  }
+}
